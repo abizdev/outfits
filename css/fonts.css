@@ -1,0 +1,16 @@
+/* times new roman */
+@font-face {
+  font-family: 'times_new_roman';
+  src: url('../fonts/TimesNewRomanPSMT.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'times_new_roman';
+  src: url('../fonts/TimesNewRomanPS-ItalicMT.ttf') format('truetype');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'times_new_roman';
+  src: url('../fonts/TimesNewRomanPS-BoldMT.ttf') format('truetype');
+  font-weight: 700;
+}
